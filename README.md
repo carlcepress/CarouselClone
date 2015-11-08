@@ -1,6 +1,6 @@
 # CarouselClone
 Saturday upload
-
+![Carousel gif] (CarouselCloneAnim.gif)
 number of hours (10)
 
 completed optional:
